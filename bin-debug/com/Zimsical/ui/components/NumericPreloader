@@ -1,0 +1,49 @@
+
+package com.zimsical.ui.components {
+
+	import flash.display.Sprite;
+	import flash.events.Event;
+	import flash.events.ProgressEvent;
+
+	public class PreloaderBar extends Sprite {
+
+    	private var numItems:Number;
+    	private var onCompleteCallback:Function;
+    	private var completedCounter:Number;
+    	private var preloader:Sprite;
+
+		public function PreloaderBar(nItems:Number, onComplete:Function, stageWidth:Number, stageHeight:Number)
+		{
+      		completedCounter = 0;
+      		onCompleteCallback = onComplete;
+      		numItems = nItems;
+
+			preloader = new Sprite();
+			preloader.graphics.lineStyle(0, 0, 0, false);
+			preloader.graphics.beginFill(0xEC1377, 1);
+			preloader.graphics.drawRect(0, 0, 400, 1);
+			preloader.graphics.endFill();
+			preloader.scaleX = 0;
+			addChild(preloader);
+			preloader.x = (stageWidth / 2) - (400 / 2);
+		  	preloader.y = (stageHeight / 2) - (preloader.height / 2);
+
+		}
+
+    	public function onProgress(e:ProgressEvent):void
+    	{
+      		var perc:Number = e.bytesLoaded / e.bytesTotal;
+      		preloader.scaleX = perc;
+    	}
+    
+    	public function onDone(e:Event):void
+    	{
+      		completedCounter++;
+      		if (completedCounter >= numItems) {
+        		index(this.parent).onPreloadComplete();
+    		}
+    	}
+
+	}
+
+}

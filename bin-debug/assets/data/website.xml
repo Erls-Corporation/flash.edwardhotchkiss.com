@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<website>
+    <config>
+        <title>Edward Hotchkiss - Developer/Designer</title>
+        <gradient>true</gradient>
+        <colorPalette>
+            <color1>0xFFFFFF</color1>
+            <color2>0xCCCCCC</color2>
+            <color3>0xF920A2</color3>
+            <color4>0xF66CBF</color4>
+            <color5>0x999999</color5>
+        </colorPalette>
+    </config>
+    <portfolio>
+        <portfolioItem>
+            <itemTitle>Bikram Yoga Union Square</itemTitle>
+            <screenshotName>bikramyogaunionsquare</screenshotName>
+            <description>Bikram Yoga Union Square is Manhattan's premiere Bikram Yoga studio located in Union Square. They needed a beautiful design to compliment their beautiful studio. The site reflects this in duplicating the studio digitaly and having the user interact as if inside the actual studio.</description>
+            <websiteLink>http://www.bikramyogaunionsquare.com</websiteLink>
+            <portfolioType>web/flash</portfolioType>
+            <myRole>Responsible for Flash CS 4, Pure ActionScript 3.0 Programming with FLEX Builder [No FLEX], SWFObject, PHP Programming, MySQL DataBase creation and access, Art Direction, Adobe Illustrator CS4, and Adobe PhotoShop CS4.</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName>Stephanie Butterworth</otherRoleName>
+                    <otherRoleDescription>Illustration, Graphic Design, Art Direction</otherRoleDescription>
+                    <otherRoleURL>http://www.stephaniebutterworth.com/</otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+        <portfolioItem>
+            <itemTitle>Walter Chin Portfolio Site</itemTitle>
+            <screenshotName></screenshotName>
+            <description>Walter Chin has practically defined the Club Monaco brand name and is a superstar in the Fashion Photography World. He wanted a clean, minimal website display his vision.</description>
+            <websiteLink>http://www.walterchin.net/index2.html</websiteLink>
+            <portfolioType>web</portfolioType>
+            <myRole>Art Direction, ActionScript 2.0 Programming, Graphic Design, Illustration, SEO [Search Engine Optimization]</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName>Jason Tordson</otherRoleName>
+                    <otherRoleDescription>ActionScript 2.0 Programming, Graphic Design</otherRoleDescription>
+                    <otherRoleURL>null</otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+        <portfolioItem>
+            <itemTitle>iPhone Shuffle Mockup and App Icon</itemTitle>
+            <screenshotName></screenshotName>
+            <description>A Website Mockup for Christopher Weems with an elegant design with intent on making sales for the iPhone app that the site was designed for.</description>
+            <websiteLink></websiteLink>
+            <portfolioType>web/mockup</portfolioType>
+            <myRole>Art Direction, Graphic Design, Illustration</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName>Stephanie Butterworth</otherRoleName>
+                    <otherRoleDescription>Illustration, Graphic Design, Art Direction</otherRoleDescription>
+                    <otherRoleURL>http://www.stephaniebutterworth.com/</otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+        <portfolioItem>
+            <itemTitle>LaRedoute.fr</itemTitle>
+            <screenshotName>LaRedoute.fr</screenshotName>
+            <description>LaRedoute.fr - Largest French eCommerce Website in the World</description>
+            <websiteLink>http://www.laredoute.fr</websiteLink>
+            <portfolioType>web/xhtml</portfolioType>
+            <myRole>Front End Engineer, jQuery Programmer, Making the site cross-browser and available to Safari/Mac OS X users, a product surfing carousel and other website enhancements.</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName></otherRoleName>
+                    <otherRoleDescription></otherRoleDescription>
+                    <otherRoleURL></otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+        <portfolioItem>
+            <itemTitle>ZIMSICAL / EdwardHotchkiss.com</itemTitle>
+            <screenshotName></screenshotName>
+            <description>Portfolio Website for Edward Hotchkiss and Stephanie Butterworth</description>
+            <websiteLink>http://www.edwardhotchkiss.com</websiteLink>
+            <portfolioType>web/flash</portfolioType>
+            <myRole>I created this website in Pure ActionScript 3.0; from plotting pixels to draw a square, to elaborate effects and animations.I used Flash CS4 for loading fonts rapidly on the fly, Pure ActionScript 3.0, PHP 5.3 OOP Programming, an MVC [Model, View, Controller] Architecture, MySQL database creation and access, MOD_REWRITE with Apache HTTPD, Adobe Illustrator CS4 and Adobe PhotoShop CS4 and Art Direction.</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName>Stephanie Butterworth</otherRoleName>
+                    <otherRoleDescription>Illustration, Graphic Design, Art Direction</otherRoleDescription>
+                    <otherRoleURL>http://www.stephaniebutterworth.com/</otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+        <portfolioItem>
+            <itemTitle>Marfa Music NYC</itemTitle>
+            <screenshotName>null</screenshotName>
+            <description>Website Mockup for Marfa Music NYC with Flash Animation</description>
+            <websiteLink></websiteLink>
+            <portfolioType>web/flash</portfolioType>
+            <myRole>Adobe Flash CS 4, ActionScript 3.0, MySQL Database Creation, PHP Programming, Art Direction, Graphic Design, Illustration</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName></otherRoleName>
+                    <otherRoleDescription></otherRoleDescription>
+                    <otherRoleURL></otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+        <portfolioItem>
+            <itemTitle>ZIMSICAL Business Cards</itemTitle>
+            <screenshotName>null</screenshotName>
+            <description>Business Cards for a newly founded company "ZIMSICAL". We wanted to reflect the duality of the two company owners/designers visions with inverted text.</description>
+            <websiteLink></websiteLink>
+            <portfolioType>graphicDesign</portfolioType>
+            <myRole>Art Direction, Graphic Design, Illustration, Typography</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName>Stephanie Butterworth</otherRoleName>
+                    <otherRoleDescription>Art Direction, Graphic Design, Illustration.</otherRoleDescription>
+                    <otherRoleURL>http://www.stephaniebutterworth.com/</otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+        <portfolioItem>
+            <itemTitle>Portals iPhone App [Port Scanner]</itemTitle>
+            <screenshotName>null</screenshotName>
+            <description>Portals is an iPhone Native Application written in pure COCOA-Touch to port scan hosts.</description>
+            <websiteLink></websiteLink>
+            <portfolioType></portfolioType>
+            <myRole>I did the loading graphics and the iPhone icon for the application, as well as COCOA-Touch programming. I skipped using InterfaceBuilder and instead coded the entire project sans .nib or .xib files.</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName></otherRoleName>
+                    <otherRoleDescription></otherRoleDescription>
+                    <otherRoleURL></otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+        <portfolioItem>
+            <itemTitle>AJAX Port Scanner</itemTitle>
+            <screenshotName>null</screenshotName>
+            <description>AJAX Port Scanner with a PHP backend and smart TCP common port recognition.</description>
+            <websiteLink>http://www.edwardhotchkiss.com/portfolio/JavaScript/AJAXPortScanner/</websiteLink>
+            <portfolioType>web/app</portfolioType>
+            <myRole>Graphic Design, UI/UX, JavaScript/AJAX, PHP,m Threading</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName></otherRoleName>
+                    <otherRoleDescription></otherRoleDescription>
+                    <otherRoleURL></otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+        <portfolioItem>
+            <itemTitle>The Property Network WordPress Site</itemTitle>
+            <screenshotName>null</screenshotName>
+            <description>Website for the Property Networkof Stamford, CT. Integrates searchable real estate themes and a custom template which WordPress powers.</description>
+            <websiteLink>http://www.thepropnet.com/</websiteLink>
+            <portfolioType>web/wordpress</portfolioType>
+            <myRole>WordPress Theming, PHP Programming, Custom Wordpress Functions, Custom WordPress Plugins, MySQL DataBase, Cross-Browser CSS and (X)HTML, Design, jQuery/JavaScript</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName></otherRoleName>
+                    <otherRoleDescription></otherRoleDescription>
+                    <otherRoleURL></otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+        <portfolioItem>
+            <itemTitle>Durgle Logo</itemTitle>
+            <screenshotName>null</screenshotName>
+            <description>Logo for Durgle.com</description>
+            <websiteLink>http://www.durgle.com/</websiteLink>
+            <portfolioType>web/html</portfolioType>
+            <myRole>Illustrator, Branding, Typography</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName></otherRoleName>
+                    <otherRoleDescription></otherRoleDescription>
+                    <otherRoleURL></otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+        <portfolioItem>
+            <itemTitle>Outside The Think Mockup</itemTitle>
+            <screenshotName>null</screenshotName>
+            <description>Mockup for Outside The Think, a progressive idea factory.</description>
+            <websiteLink></websiteLink>
+            <portfolioType>mockup</portfolioType>
+            <myRole>Graphic Designer, UI/UX, Typography</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName></otherRoleName>
+                    <otherRoleDescription></otherRoleDescription>
+                    <otherRoleURL></otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+        <portfolioItem>
+            <itemTitle>Krypton SMS Web Based Application</itemTitle>
+            <screenshotName>null</screenshotName>
+            <description>Krypton allows mobile users without service but with wifi to send SMS messages in a sexy looking format.</description>
+            <websiteLink>http://krypton.durgle.com/</websiteLink>
+            <portfolioType>web/app</portfolioType>
+            <myRole>Design, PHP Programming, JavaScript Programming, (X)HTML and CSS</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName>Craig Keller</otherRoleName>
+                    <otherRoleDescription>Art Direction, Graphic Design, (X)HTML, CSS</otherRoleDescription>
+                    <otherRoleURL>http://www.durgle.com/</otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+        <portfolioItem>
+            <itemTitle>Edward Hotchkiss, Logo Design / Typography</itemTitle>
+            <screenshotName>null</screenshotName>
+            <description>Logo Design for Edward Hotchkiss</description>
+            <websiteLink></websiteLink>
+            <portfolioType>mockup</portfolioType>
+            <myRole>Adobe Illustrator, Typography</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName></otherRoleName>
+                    <otherRoleDescription></otherRoleDescription>
+                    <otherRoleURL></otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+        <portfolioItem>
+            <itemTitle>RETV Mockup</itemTitle>
+            <screenshotName>null</screenshotName>
+            <description>Mockup for RETV Website</description>
+            <websiteLink></websiteLink>
+            <portfolioType>mockup</portfolioType>
+            <myRole>Adobe Illustrator CS4, Adobe Photoshop CS4 and Typography</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName></otherRoleName>
+                    <otherRoleDescription></otherRoleDescription>
+                    <otherRoleURL></otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+        <portfolioItem>
+            <itemTitle>The Property Network Mobile Website</itemTitle>
+            <screenshotName>null</screenshotName>
+            <description>The Property Network is a distinguished Stamford Real Estate Agency. This is a mobile version of their website specifically formated for an iPhone, but viewable nicely on all mobile devices.</description>
+            <websiteLink>http://www.thepropnet.mobi/</websiteLink>
+            <portfolioType>web/mobile</portfolioType>
+            <myRole>AJAX, PHP Programming, (X)HTML CSS, Mobile Website Knowledge [Webkit Mobile], jQuery/JavaScript, Adobe PhotoShop CS4, Adobe Illustrator CS4</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName></otherRoleName>
+                    <otherRoleDescription></otherRoleDescription>
+                    <otherRoleURL></otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+        <portfolioItem>
+            <itemTitle>Edward Hotchkiss - Mobile iPhone Website with AJAX Conact Form</itemTitle>
+            <screenshotName>null</screenshotName>
+            <description>A Mobile Website formated specifically for the iPhone to contact Edward Hotchkiss via a mobile telephone.</description>
+            <websiteLink>http://www.edwardhotchkiss.mobi/</websiteLink>
+            <portfolioType>web/mobile</portfolioType>
+            <myRole>Adobe Illustrator, Adobe Photoshop, (X)HTML, Mobile Website HTML, CSS3, PHP, jQuery, AJAX, JavaScript</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName></otherRoleName>
+                    <otherRoleDescription></otherRoleDescription>
+                    <otherRoleURL></otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+        <portfolioItem>
+            <itemTitle>JS2 JavaScript OOP Library</itemTitle>
+            <screenshotName>null</screenshotName>
+            <description>I wrote a custom Object Oriented JavaScript Library with functionality similar to that of jQuery and Prototype; the ever popular cross-browser JavaScript libraries used by a plethora of website developer and application designers. Once these libraries became a standard, I ceased development and switched to jQuery</description>
+            <websiteLink>http://www.edwardhotchkiss.com/portfolio/JavaScript/JS2/JS2.js.txt</websiteLink>
+            <portfolioType>code</portfolioType>
+            <myRole>Software Architect, JavaScript Programmer</myRole>
+            <otherRoles>
+                <otherRole>
+                    <id>1</id>
+                    <otherRoleName></otherRoleName>
+                    <otherRoleDescription></otherRoleDescription>
+                    <otherRoleURL></otherRoleURL>
+                </otherRole>
+            </otherRoles>
+        </portfolioItem>
+    </portfolio>
+    <blog>s
+        <entries>
+            <entry>
+                <entryId>1</entryId>
+                <entryDate>03/17/10</entryDate>
+                <entryTime>07:14</entryTime>
+                <amPM>PM</amPM>
+                <entryTitle>Making a Website with only ActionScript 3.0</entryTitle>
+                <entryTags>Flash, ActionScript 3.0, Flex Builder, Eclipse, Tutorial</entryTags>
+                <entry>I've decided to publish a series of articles on how to create a website using just ActionScript without ever opening Flash CS4 [Well, except to load a fonts swf/swf - but we don't even need to do that, it's just for speed] and how to do this from start to finish, from opening FLEX Builder and creating a new ActionScript 3.0 project, to Exporting a release build with a CMS. I hope that everyone gives me feedback! I'm really looking forward to this series.</entry>
+                <entryComments>
+                    <coment>
+                        <commentId>1</commentId>
+                        <commentBody>Test Comment #1</commentBody>
+                        <commentAuthorName>Test Author #1</commentAuthorName>
+                        <commentAuthorEmail>author1@autho1.com</commentAuthorEmail>
+                        <commentAuthorURL>http://www.test1.com/</commentAuthorURL>
+                    </coment>
+                </entryComments>
+            </entry>
+        </entries>
+    </blog>
+</website>

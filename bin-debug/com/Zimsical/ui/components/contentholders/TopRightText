@@ -1,0 +1,95 @@
+
+package com.zimsical.ui.components.contentholders
+{
+
+	import com.greensock.TweenLite;
+	import com.greensock.easing.Expo;
+	import flash.display.Stage;
+	import flash.display.Sprite;
+	import flash.text.StyleSheet;
+	import flash.text.TextField;
+	import flash.text.TextFormat;
+	import flash.text.TextFieldAutoSize;
+	import flash.text.AntiAliasType;
+	import flash.events.Event;
+	
+	public class TopLeftText extends Sprite
+	{
+
+		public var topData:Sprite;
+		public var topDataName:TextField;
+		public var topDataEmail:TextField;
+		public var topDataPhone:TextField;
+		public var topDataGlobalTextFormat:TextFormat;
+		public var topDataEmailTextFormat:TextFormat;
+		
+        public function TopLeftText():void
+        {
+
+			topData = new Sprite;
+			addChild(topData);
+
+        	topDataName = new TextField;
+      		topDataName.text = "EDWARD HOTCHKISS";
+           	topDataName.embedFonts = true;
+      		topDataName.multiline = false;
+      		topDataName.selectable = false;
+      		topDataName.embedFonts = true;
+      		topDataName.antiAliasType = AntiAliasType.ADVANCED;
+      		topDataName.width = 280;
+      		topDataName.height = 50;
+      		
+      		topDataGlobalTextFormat = new TextFormat;
+      		topDataGlobalTextFormat.color = 0xFFFFFF;
+      		topDataGlobalTextFormat.size = 36;
+      		topDataGlobalTextFormat.font = "Bebas";
+      		topDataGlobalTextFormat.letterSpacing = -1;
+
+      		topDataName.setTextFormat(topDataGlobalTextFormat);
+      		
+      		topData.addChild(topDataName);
+      		topDataName.x = 40;
+      		topDataName.y = 40;
+
+			topDataEmail = new TextField;
+      		topDataEmail.text = "edward@edwardhotchkiss.com";
+           	topDataEmail.embedFonts = true;
+      		topDataEmail.multiline = false;
+      		topDataEmail.selectable = false;
+      		topDataEmail.embedFonts = true;
+      		topDataEmail.antiAliasType = AntiAliasType.ADVANCED;
+      		topDataEmail.width = 280;
+      		topDataEmail.height = 25;
+
+			topDataEmailTextFormat = new TextFormat;
+			topDataEmailTextFormat = topDataGlobalTextFormat;
+
+			topDataEmailTextFormat.letterSpacing = 1;
+			topDataEmailTextFormat.size = 16;
+			topDataEmail.setTextFormat(topDataEmailTextFormat);
+            
+            topData.addChild(topDataEmail);
+            topDataEmail.x = 40;
+            topDataEmail.y = 90;
+ 
+ 			topDataPhone = new TextField;
+      		topDataPhone.text = "+1.347.732.5321";
+           	topDataPhone.embedFonts = true;
+      		topDataPhone.multiline = false;
+      		topDataPhone.selectable = false;
+      		topDataPhone.embedFonts = true;
+      		topDataPhone.antiAliasType = AntiAliasType.ADVANCED;
+      		topDataPhone.width = 280;
+      		topDataPhone.height = 25;
+
+			topDataPhone.setTextFormat(topDataEmailTextFormat);
+            
+            topData.addChild(topDataPhone);
+            topDataPhone.x = 40;
+            topDataPhone.y = 115;           
+
+        }
+
+	}
+	
+}
